@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**3lopezDev/3lopezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi im **3lopezDev** a ✨ System Enginering ✨, we make magic things in this GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
